@@ -21,5 +21,5 @@
 
 | assignments                               | when done |
 |-------------------------------------------|-----------|
-| [SOL](assignments/SOL.md)                 |           |
-| [competences](assignments/competences.md) |           |
+| [SOL](assignments/SOL.md)                 | 20/02/2023|
+| [competences](assignments/competences.md) | 20/02/2023|
