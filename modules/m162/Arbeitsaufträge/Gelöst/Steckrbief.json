@@ -1,0 +1,25 @@
+{
+"Created":"2022-11-23T11:25:00",
+   "fullname":"Rayan Lee Bopp",
+   "gender":"male",
+   "age":16,
+   "DOB":"2005-12-05T15:39:29",
+   "hobbies":[
+      "composing music",
+      "playing piano",
+      "playing violin",
+      "reading books",
+      "martial arts",
+      {"cooking":[
+        "asian cuisine",
+        "italian cuisine",
+        "french cuisine"
+      ]}
+   ],
+   "why did I choose IT":[
+    "interesting",
+    "my passion",
+    "i like it",
+    "i grew up with electronics"
+   ]
+}
