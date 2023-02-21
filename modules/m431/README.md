@@ -19,7 +19,7 @@
 
 #### assignments
 
-| assignments               | when done |
-|---------------------------|-----------|
-| [SOL](assignments/SOL.md) |           |
-| []
+| assignments                               | when done |
+|-------------------------------------------|-----------|
+| [SOL](assignments/SOL.md)                 |           |
+| [competences](assignments/competences.md) |           |
