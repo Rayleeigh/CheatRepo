@@ -1,9 +1,0 @@
-| Quelle            | Ziel                                             | Häufigkeit                               | Methode                         | Bemerkungen       |
-|----------------   |--------------------------------------------------|------------------------------------------|---------------------------------|-------------------|
-| PC-Dateien        | OneDrive, GitLab, externe Harddisk               | Jeden Tag                                | WonderShare RecoverIt           | theoretisch möglich werde es aber nicht machen wegen Geldmangel |
-| Schuldateien      | OneDrive, GitLab, externe Harddisk               | Jeden Tag                                | OneDrive, GitLab                |                   |
-| Medien/Fotos      | externe Harddisk                                 | Jeden zweiten Monat                      | Manuell                         |                   |
-| Passwörter        | Smartphone                                       | Jedes mal wenn ein neues   erstellt wird | Manuell                         |                   |
-| Scripts           | USB-Stick                                        | Jede Woche                               | Manuell                         |                   |
-| GameDev. Saves    | Zuhause auf PC                                   | Nach jedem Change                        | GitHub                          |                   |
-| Nachrichten(WA)   | GoogleDrive                                      | Jede Woche                               | GoogleDrive                     | kann ich leider nicht mehr, da mein GoogleDrive voll ist.                   |
