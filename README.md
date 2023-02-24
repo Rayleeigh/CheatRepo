@@ -4,7 +4,7 @@
 
 # CheatRepo
 
-This is a repository for "cheating". Giving you an advantage over other while still learning is my goal. After all why not boost your educational process by the 10 folds with this repository. 
+This is a repository for "cheating". Giving you an advantage over other while still learning is my goal. After all why not boost your educational process by the 10 folds with this repository. In this repository I will upload all my files I've used and I'll also link some projects that I'm currently working on.
 
 ## purpose
 
