@@ -6,13 +6,9 @@
 
 This is a repository for "cheating". Giving you an advantage over other while still learning is my goal. After all why not boost your educational process by the 10 folds with this repository. 
 
-<br>
-
 ## purpose
 
 I have created this repository so that I can share my experience and knowledge.
-
-<br>
 
 ## recomendations
 
