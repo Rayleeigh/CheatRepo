@@ -2,7 +2,7 @@
 
 #### Daily Report
 
-[DailyReport](report/dailyreport.md) - ***last updated:*** **24/02/2023**
+[DailyReport](report/README.md) - ***last updated:*** **24/02/2023**
 #### Overview
 
 |    | Date       | Learn                 | Assignment                      |   |
