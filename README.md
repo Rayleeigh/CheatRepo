@@ -17,8 +17,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <footer class="page-footer font-small bg-dark text-white pt-4" style="font-size: 10px;">
     <div class="container">
