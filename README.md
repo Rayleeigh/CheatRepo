@@ -13,6 +13,11 @@
 <font size= "1px"> <i>Everything in this repository is made by me and from me, this also includes every script and code I share here. If you copy things from here please make sure to link me as one of your sources. Also I'm not liable for any damages caused by 3rd parties with my scripts and documentations. Everything in this repository serves only educational purposes. </i> </font>
 </div>
 
+---
+
+<br>
+<br>
+<br>
 <br>
 
 <footer class="page-footer font-small bg-dark text-white pt-4" style="font-size: 10px;">
@@ -20,8 +25,7 @@
         <div class="row">
             <div class="col-12">
                 <ul class="list-unstyled list-inline">
-                    <li class="list-inline-item"><a class="text-white" href="#">About Us</a></li>
-                    <li class="list-inline-item"><a class="text-white" href="#">Privacy Policy</a></li>
+                    <li class="list-inline-item"><a class="text-white" href="mailto:portfolio.it.zh@gmail.com">Contact Me</a></li>
                     <li class="list-inline-item"><a class="text-white" href="#">Terms & Conditions</a></li>
                     <li class="list-inline-item"><a class="text-white" href="#">Contact Us</a></li>
                 </ul>
