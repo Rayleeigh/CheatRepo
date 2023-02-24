@@ -8,26 +8,11 @@ This is a repository for "cheating". Giving you an advantage over other while st
 
 ## purpose
 
-I have created this repository so that I can share my experience and knowledge.
+I have created this repository so that I can share my experience and knowledge and to create a efficient and easy to use source of information. 
 
-## recomendations
+## contact me
 
-write me your recommendations by clicking contact me.
-
----
-
-<footer class="page-footer font-small bg-dark text-white pt-4" style="font-size: 10px;">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <ul class="list-unstyled list-inline">
-                    <li class="list-inline-item"><a class="text-white" href="mailto:portfolio.it.zh@gmail.com">Contact Me</a></li>
-                    <li class="list-inline-item"><a class="text-white" href="#">Terms & Conditions</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</footer>
+Have something you want to add to my repository? Or maybe want to have something listed here that you think is important? Or did I get something wrong or left something out? Please feel free to contact me by clicking on the contact me button. <a class="" href="mailto:portfolio.it.zh@gmail.com"> 📨 Contact Me</a></li>
 
 ---
 
