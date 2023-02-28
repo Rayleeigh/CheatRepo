@@ -1,11 +1,12 @@
-package m319.Tag2;
+package m319.Tag2.JavaAssignments1;
 import java.util.Scanner;
 import java.util.Random;
-
+/**
+ * AssignmentJava2
+ */
 public class AssignmentJava2 {
 
     public static void main(String[] args) {
-
         int min =  -1000000000;
         int max  = 1000000000;
 
