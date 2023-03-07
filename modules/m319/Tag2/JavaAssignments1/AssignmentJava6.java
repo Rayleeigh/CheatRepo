@@ -1,4 +1,3 @@
-package m319.Tag2.JavaAssignments1;
 import java.util.Scanner;
 import java.lang.Math;
 
