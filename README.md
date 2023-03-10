@@ -1,7 +1,3 @@
- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-
 # CheatRepo
 
 This is a repository for "cheating". Giving you an advantage over other while still learning is my goal. After all why not boost your educational process by the 10 folds with this repository. In this repository I will upload all my files I've used and I'll also link some projects that I'm currently working on.
@@ -18,7 +14,7 @@ Have something you want to add to my repository? Or maybe want to have something
 
 [🔓 Metasploit2 and Kalilinux](https://github.com/CastouloLee/projectweek-KaliLinux-documentation)
 
-[🔒 Project D](https://github.com/CastouloLee/ProjectD)
+[🔓 CheatRepo Projects](https://github.com/CastouloLee/CheatRepo-Projects)
 
 ---
 
