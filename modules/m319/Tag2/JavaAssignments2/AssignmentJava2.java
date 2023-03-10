@@ -1,5 +1,3 @@
-package m319.Tag2.JavaAssignments2;
-
 /**
  * AssignmentJava2
  */

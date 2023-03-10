@@ -1,5 +1,3 @@
-package m319.Tag2.JavaAssignments2;
-
 import java.nio.charset.MalformedInputException;
 
 public class AssignmentJava1 {
