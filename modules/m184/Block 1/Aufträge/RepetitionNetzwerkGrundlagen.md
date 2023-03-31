@@ -14,14 +14,26 @@ Eine Broadcast Domain oder auf deutsch Broadcast Domäne funktioniert folgenderm
 5. Wozu verwendet man VLANs?
 6. Was ist ein ARP Broadcast?
 7. Was versteht man unter TCP/IP Stack?
-8. Wie unterscheiden sich TCP und UDP?$
+8. Wie unterscheiden sich TCP und UDP?
+
+**Kurze Erfassung:**
+Sowohl TCP als auch UDP sind Protokolle, die verwendet werden, um Datenbits, auch Pakete genannt, zu senden. Beide bauen auf dem Internetprotokoll auf. Man kann es auch so ausdrücken: Wenn man ein Paket per TCP oder UDP verschickt, wird es an eine IP-Adresse gesendet. Beide Pakete werden ähnlich behandelt und von Ihrem Computer zum zwischengeschalteten Router bis zum Ziel geleitet.
+
+**Unterschiede:**
+TCP garantiert, dass der Empfänger die Daten korrekt empfängt, indem sie durchnummeriert werden. Der Empfänger quittiert den korrekten Empfang der Daten and den Sender zurück. Falls keine Bestätigung kommt, werden die Daten erneut gesendet, außerdem werden sie auf Richtigkeit überprüft.
+Bei UDP wird weniger auf die Zuverlässigkeit der Daten geachtet, da die viel Bandbreite frisst. UDP verschickt Daten ohne jegliche überprüfung. Sollte bei dem UDP-Protokoll ein Paket nicht korrekt ankommt hat man Pech gehabt, da UDP die Vollständigkeit der Daten nicht garantiert.
+Sprich, TCP achtet auf Vollständigkeit und Richtigkeit der Daten, während UDP auf die Geschwindigkeit der Übertragung ausgelegt ist.
+
 9.  Wie funktioniert der TCP Verbindungsaufbau?
+
 10. Was versteht man unter Well-Known Port?
-11. Was ist ein Portscan?
-12. Wozu dient das Protokoll DNS?
-13. Wofür verwendet man NAT und Masquerading?
-14. Wie unterscheiden sich Source und Destination NAT?
-15. Wann benötigt man Portforwarding?
+Well-known Ports sind Port-Nummern, die für bestimmte Dienste im Internet reserviert wurden. Sie werden in der Internet Engineering Task Force (IETF) RFC 1700 definiert und sind in der Regel zwischen 0 und 1023. Beispiele für gängige Ports sind der HTTP-Port 80, der HTTPS-Port 443, der FTP-Port 21 usw.
+
+11.  Was ist ein Portscan?
+12.  Wozu dient das Protokoll DNS?
+13.  Wofür verwendet man NAT und Masquerading?
+14.  Wie unterscheiden sich Source und Destination NAT?
+15.  Wann benötigt man Portforwarding?
 
 **Wann bemnötigt man es?**
 Portforwarding wird insbesondere benötigt, wenn ein bestimmter Computer in einem Netzwerk als Server dienen soll. Bei Serveranwendungen ist es üblich, dass der Server ein Pakter übermittelt bekommt, das er nicht selbst angefordert hat. Das ist etwa der Fall, wenn sich ein neuer Nutzer beim Server anmelden will.
@@ -37,8 +49,8 @@ Portforwarding wird insbesondere benötigt, wenn ein bestimmter Computer in eine
 **Wie Funktioniert Portforwarding?**
 Portforwarding ist eine Technik, mit der ein Computer, der sich hinter einem Router befindet, von außen zugreifbar gemacht werden kann. Dies geschieht, indem der Router so konfiguriert wird, dass er ankommende Verbindungsanfragen, die an einen bestimmten Port gerichtet sind, an den Computer im Inneren des Netzwerks weiterleitet. Der Computer kann dann Anfragen an den Port empfangen und auf diese Antworten.
 
-7.  Wozu wird ICMP verwendet?
-8.  Was ist der Unterschied zwischen HTTP und HTTPS?
-9.  Wie unterscheiden sich Endpoint- und Perimeter-Security?
-10. Wozu dient das Protokoll DHCP?
-11. Was ist der Unterschied zwischen symmetrischer und asymmetrischer Verschlüsselung?
+16.  Wozu wird ICMP verwendet?
+17.  Was ist der Unterschied zwischen HTTP und HTTPS?
+18.  Wie unterscheiden sich Endpoint- und Perimeter-Security?
+19. Wozu dient das Protokoll DHCP?
+20. Was ist der Unterschied zwischen symmetrischer und asymmetrischer Verschlüsselung?
