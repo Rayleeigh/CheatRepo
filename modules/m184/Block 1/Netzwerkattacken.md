@@ -17,3 +17,7 @@ Abwehrtechniken umfassen das Installieren von Patches auf den anfälligen System
 
 **4. Ist diese Attacke in heutigen Netzwerken und mit modernen Betriebssystemen noch wirksam?**<br>
 Nein, da die meisten Betriebsysteme und Netzwerkgeräte dieses Problem schon längst behoben haben, jedoch ist es noch auf älteren Version wirksam, die diese Schwachstelle noch nicht behoben/gepatcht haben.
+
+**Ablauf einer LAND attacke**
+![ablauf einer land attacke](https://t1.daumcdn.net/cfile/tistory/995B573359EB8D3E10)
+<legend>source [보안 공부 - 티스토리](https://tar-cvzf-studybackup-tar-gz.tistory.com/43)</legend>
