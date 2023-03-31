@@ -31,6 +31,17 @@ Well-known Ports sind Port-Nummern, die für bestimmte Dienste im Internet reser
 
 11.  Was ist ein Portscan?
 12.  Wozu dient das Protokoll DNS?
+
+**kurz fassung**
+Kurz DNS, DNS ist ausgeschrieben Domain Name System. Dieses System dient zur Auflösung von Computernamen in IP-Adressen und umgekehrt, dazu hat man forward-lookupzones und reverse-lookupzones. Dieses Vorgehen bezeichnet man als Namensauflösung. Möchte man zum Beispielt die Website google.ch besuchen, dann fragt dein Computer/Browser einen DNS-Server, der in der IP-Konfiguration hinterlegt ist, nach der entsprechenden IP-Adresse.
+
+**DNS, Wie funktioniert es?**
+![DNSAblauf](https://info.varonis.com/hubfs/Varonis_June2021/Images/how-dns-works@2x.png)
+
+Die Anfrage wird zuerst and den lokalen DNS-Index geschickt, dies findet man unter `C:\Windows\System32\drivers\etc\host`, wenn dort nichts eingetragen ist fragt er denn lokalen DNS-Server an, wenn dort auch nichts ist, fragt der den regionalen/nationalen DNS-Server an und wenn man dort auch nichts findet, fragt er den ROOT-DNS an der hat, dann immer die antwort, dann geht das rekusiv zurück und wird bei sich eingetragen.
+
+
+
 13.  Wofür verwendet man NAT und Masquerading?
 14.  Wie unterscheiden sich Source und Destination NAT?
 15.  Wann benötigt man Portforwarding?
