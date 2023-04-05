@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8649c37-3aac-4754-aae4-ec6c61eab1ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag1/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag1/src/scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag2/Tag2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag4/Tag4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag4/src/dinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag4/src/subclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag5/Tag5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tag5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/LB2_RYVIT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/Aufgabe_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/HelloWorld/out/production/HelloWorld/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufträge/HelloWorld/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag1/Aufgabe_2/Aufgabe_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag1/Aufgabe_2/Aufgabe_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag1/Aufgabe_2/Aufgabe_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag1/Aufgabe_2/Aufgabe_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag1/Aufgabe_2/Aufgabe_2/Aufgabe_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/m319.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag1/Aufgabe_2/CheatRepo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag1/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/AssignmentJava1.2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/ExampleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/ExampleConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments1/AssignmentJava1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments1/AssignmentJava2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments1/AssignmentJava3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments1/AssignmentJava4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments1/AssignmentJava5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments1/AssignmentJava6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments2/AssignmentJava1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments2/AssignmentJava2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments2/AssignmentJava3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignments2/AssignmentJava4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignmentsExamples/AssignmentJava1.2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignmentsExamples/ExampleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag2/JavaAssignmentsExamples/ExampleConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/.idea/Tag3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tag1/Tag1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/TrueFalse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/out/production/Tag3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/out/production/Tag3/.idea/Tag3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tag3/Tag3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/out/production/Tag3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/out/production/Tag3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/out/production/Tag3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tag3/out/production/Tag3/TrueFalse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m319.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/.idea/libraries/LB2_RYVIT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Aufträge/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Aufträge/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Aufträge/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Aufträge/HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Aufträge/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/Aufgabe_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/Aufgabe_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/Aufgabe_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/Aufgabe_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/Aufgabe_2/Aufgabe_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m106/Cheatsheet/CheatSheet.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m106/Cheatsheet/Cheatsheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m106/Images/Block2Auftrag2.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m106/Lernziele/Lernziele.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m117/Arbeitsaufträge/Heimnetzwerk-Diagramm.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m117/Arbeitsaufträge/Heimnetzwerk.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m117/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m123/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m188/Checklisten.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m188/DiagrammAktivität.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m188/Namenskonvention.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m188/PerformanceLeistung.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m188/Wie Funktioniert RAID 5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m188/ÜK-Dokumentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m231/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag1/Aufgabe_2/CheatRepo/modules/m431/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/Tag2/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/m319/m319/m319.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NwxB22qqq7YSgnRliBxybzRaZf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rayan\OneDrive\Dokumente\GitHub\CheatRepo\modules\m319" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8649c37-3aac-4754-aae4-ec6c61eab1ed" name="Changes" comment="" />
+      <created>1680588811122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680588811122</updated>
+    </task>
+    <servers />
+  </component>
+</project>
