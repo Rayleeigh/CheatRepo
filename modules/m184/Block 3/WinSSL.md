@@ -19,7 +19,42 @@ Füge ganz einfach den Anzeigename für dein Zertifikat ein und den Zertifikatsp
 
 Super! Du hasst jetzt dein Selfsigned Certificate erstellt, jetzt musst du dies nur noch mit deiner Website verknüpfen.
 Hierfür klappst du deine Ordnerstruktur unter Site auf, dann klickst du auf Default Web Site.
-Gehe danach auf `Bindgs...`. 
+Gehe danach auf `Binidgs...`. 
 
 ![image](https://user-images.githubusercontent.com/125958687/230395994-dcc189e9-f740-41fe-8715-f61aacf5fdfe.png)
 
+Nachdem du auf `Bindings...` gedrückt hast, musst du ein neues binding erstellen.
+Klicke hierfür in dem Pop-Up auf `Add..`
+
+![image](https://user-images.githubusercontent.com/125958687/230396906-6a14484c-ca51-4510-aa0d-45c61060a295.png)
+
+Konfiguriere es wie folgt:
+
+* Type:	In the drop-down list, select https.
+ 	
+* IP address:	In the drop-down list, select the IP address of the site or select All Unassigned.
+ 	
+* Port:	Type port 443. The port over which traffic is secured by SSL is port 443.
+
+* SSL-Certificate: Your previously created certificate.
+
+dies sollte, dann wie folgend aussehen:
+
+![image](https://user-images.githubusercontent.com/125958687/230397394-7d1cd9ec-a2dd-4ecf-834e-d25b170b6d4b.png)
+
+Am Schluss sollte dies wie folgt aussehen:
+
+![image](https://user-images.githubusercontent.com/125958687/230397490-85ad42ce-92f6-4f5b-b38e-4d3dfb87e3ee.png)
+
+## Auf die Website zugreifen
+versuchen wir jetzt einmal von aussen auf die Website zuzugreifen, dies macht man indem man die IP eingibt und, oh das geht ja nicht.
+Gehe, dann zu deinem OPNSense Webinterface und erstelle eine neue NAT-Rule.
+Sie sollte wie folgt aussehen.
+
+![image](https://user-images.githubusercontent.com/125958687/230398144-7e28ab30-fd68-49d5-8fe3-67b65997a1bd.png)
+![image](https://user-images.githubusercontent.com/125958687/230398487-45b03fcb-556c-40f5-94bd-29f544fb978a.png)
+
+Danach solltest du auf deine HTTPS-Website zugreifen können indem du folgendes in der Searchbar eingibst:
+```
+https://<WAN-INTERFACE-IP>:<DESIGNATED PORT>
+```
